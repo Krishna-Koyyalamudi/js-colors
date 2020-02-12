@@ -18,3 +18,4 @@ document.querySelector('#green').addEventListener('touchend', updateColor)
 
 // call the handler 
 updateColor() 
+
